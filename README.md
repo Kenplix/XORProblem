@@ -1,4 +1,4 @@
-# XORProblem
+# XOR Problem
 Simple neural network for solution this task
 
 # You can download my presentation here
