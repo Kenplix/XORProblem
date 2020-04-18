@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!venv/bin/python3
 # -*- coding: UTF-8 -*-
 
 import numpy as np
